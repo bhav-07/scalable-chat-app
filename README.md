@@ -1,3 +1,6 @@
+# scalable-chat-app
+
+![image](https://github.com/bhav-07/scalable-chat-app/assets/97280556/b88b2764-f0b5-48d6-b3c1-7bafb5c89aee)
 # Turborepo starter
 
 This is an official starter Turborepo.
